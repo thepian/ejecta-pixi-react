@@ -18,8 +18,8 @@
     "gulp-util": "~3.0.1",
     "gulp-webserver": "latest",
     "pixi.js": "^2.2.7",
-    "react": "^0.12.2",
-    "react-pixi": "latest",
+    "react": "^0.13.1",
+    "react-pixi": "0.5.0",
     "reactify": "latest",
     "vinyl-source-stream": "^1.0.0",
     "watchify": "~2.1"
